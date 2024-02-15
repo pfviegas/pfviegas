@@ -6,4 +6,4 @@
 <br>
 [![Skills](https://skillicons.dev/icons?i=c,cmake,bash,linux,git,github,vim,vscode)](https://skillicons.dev)
 
-[![](https://visitcount.itsvg.in/api?id=pfviegas&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=pfviegas&label=%20&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
